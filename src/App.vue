@@ -145,6 +145,23 @@
             </div>
           </div>
         </a>
+        <a
+          class="each-portfolio"
+          data-fancybox="gallery"
+          href="assets/images/heinsohn.png"
+        >
+          <div class="content hover-cont-wrap">
+            <div class="content-overlay"></div>
+            <img class="content-image" src="assets/images/heinsohn.png" />
+            <div class="content-details fadeIn-bottom">
+              <h5 class="p-title">heinsohn</h5>
+              <p class="p-desc">
+                empresa certificada
+              </p>
+              <span class="zoom"><i class="fa fa-search-plus"></i></span>
+            </div>
+          </div>
+        </a>
       </div>
     </div>
     </div>
