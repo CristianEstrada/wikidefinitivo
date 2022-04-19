@@ -333,8 +333,19 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
         <br>
         <p class="lead">Colombia, S. (2017, diciembre 17). Un nuevo logro para SoftManagement: Certificaciones
 CMMI Nivel 5 para “Desarrollo y Servicios”. SoftManagement. <a href="https://softmanagement.com.co/2017/12/17/un-nuevo-logro-para-softmanagementcertificaciones-cmmi-nivel-5-para-desarrollo-y-servicios/">https://softmanagement.com.co/2017/12/17/un-nuevo-logro-para-softmanagementcertificaciones-cmmi-nivel-5-para-desarrollo-y-servicios/</a>   </p>
+        <p class="lead">MinTIC promueve modelo y certificación CMMI para empresas de la Industria TI del país.
+(s/f). MINTIC Colombia. Recuperado el 28 de marzo de 2022, de <a href="https://mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/6024:MinTIC-promueve-modeloy-certificacion-CMMI-para-empresas-de-la-Industria-TI-del-pais">https://mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/6024:MinTIC-promueve-modeloy-certificacion-CMMI-para-empresas-de-la-Industria-TI-del-pais</a></p>
+        <p class="lead">SACF, Information systems Audit and control fundation. COBIT, resumen ejecutivo.
+ISACF, CISA. 2da edición. Rolling Meadows, USA. 1998. </p> 
+        <p class="lead">Salazar, A., & Informático, I. Modelo de implantación de Gestión del Conocimiento y
+Tecnologías de Información para la Generación de Ventajas Competitivas. Gestión del
+Conocimiento, pp. 1-16. 2000.</p>
+        <p class="lead">ISACF, Information systems Audit and control fundation. COBIT, Marco Referencial.
+ISACF, CISA. 2da edición. Rolling Meadows, USA, pp. 6. 1998. </p>
+        <p class="lead">Salas, J. M. Del dominio del control financiero a una perspectiva cualitativa del control
+de gestión. Revista Facultad de Ciencias Económicas: Investigación y Reflexión, pp.
+24(1), 5-11. 2016. </p>
       </div>
-     
     </div>
   </section>
   <footer class="footer text-center">
