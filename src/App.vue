@@ -103,7 +103,7 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="assets/images/CMMI.png" />
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
+              <h5 class="p-title">Anexo</h5>
               <p class="p-desc">
                 Infografia CMMI
               </p>
@@ -122,7 +122,24 @@
             <div class="content-details fadeIn-bottom">
               <h5 class="p-title">OPEN SYSTEMS</h5>
               <p class="p-desc">
-                empresa certificadas
+                empresa certificada
+              </p>
+              <span class="zoom"><i class="fa fa-search-plus"></i></span>
+            </div>
+          </div>
+        </a>
+        <a
+          class="each-portfolio"
+          data-fancybox="gallery"
+          href="assets/images/SoftLogoPaginaWeb.png"
+        >
+          <div class="content hover-cont-wrap">
+            <div class="content-overlay"></div>
+            <img class="content-image" src="assets/images/SoftLogoPaginaWeb.png" />
+            <div class="content-details fadeIn-bottom">
+              <h5 class="p-title">SOFT</h5>
+              <p class="p-desc">
+                empresa certificada
               </p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
