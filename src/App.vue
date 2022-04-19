@@ -88,6 +88,48 @@
           </p>
         </div>
       </div>
+      <div class="container">
+        <div class="text-left">
+        <h4>Anexos</h4>
+      </div>
+        <br>
+      <div class="portfolio-wrapper clearfix">
+        <a
+          class="each-portfolio"
+          data-fancybox="gallery"
+          href="assets/images/CMMI.png"
+        >
+          <div class="content hover-cont-wrap">
+            <div class="content-overlay"></div>
+            <img class="content-image" src="assets/images/CMMI.png" />
+            <div class="content-details fadeIn-bottom">
+              <h5 class="p-title">Title</h5>
+              <p class="p-desc">
+                Infografia CMMI
+              </p>
+              <span class="zoom"><i class="fa fa-search-plus"></i></span>
+            </div>
+          </div>
+        </a>
+        <a
+          class="each-portfolio"
+          data-fancybox="gallery"
+          href="assets/images/1280px-Open-systems-logo.svg.png"
+        >
+          <div class="content hover-cont-wrap">
+            <div class="content-overlay"></div>
+            <img class="content-image" src="assets/images/1280px-Open-systems-logo.svg.png" />
+            <div class="content-details fadeIn-bottom">
+              <h5 class="p-title">OPEN SYSTEMS</h5>
+              <p class="p-desc">
+                empresa certificadas
+              </p>
+              <span class="zoom"><i class="fa fa-search-plus"></i></span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
     </div>
   </section>
   <!-- Cobit Us Starts -->
@@ -119,17 +161,19 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
           <br>
           <h4>Beneficios </h4>
           <br>
-          <p class="lead">
-            <ul class="lead">Optimizar los servicios, el coste de las TI y la tecnologias.</ul>
-            <ul class="lead">Apoyar el cumplimiento de las leyes, reglamentos,acuerdos contractuales y las politicas</ul>
-            <ul class="lead">Gestion de nuevas tecnologias de información</ul>
+          <p class="lead ">
+            <ul class="lead">- Optimizar los servicios, el coste de las TI y la tecnologias.</ul>
+            <ul class="lead">- Apoyar el cumplimiento de las leyes, reglamentos,acuerdos contractuales y las politicas</ul>
+            <ul class="lead">- Gestion de nuevas tecnologias de información</ul>
           </p>
           <br>
          
         </div>
       </div>
 <div class="container">
-        <br>
+        <div class="text-left">
+        <h4>Anexos</h4>
+      </div>
         <br>
       <div class="portfolio-wrapper clearfix">
         <a
@@ -151,9 +195,6 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
         </a>
       </div>
     </div>
-
-
-
     </div>
   </section>
   <!--moprosoft section start-->
