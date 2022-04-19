@@ -323,7 +323,16 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
     <div class="container">
       <div class="block-heading">
         <h2>Bibliografia</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      </div>
+      <div clas="text-left">
+        <p class="lead">Cabrera, I. (2021, 23 abril). Moprosoft. SIGE. <a href="https://www.sige.org.mx/verificacion-moprosoft/#:%7E:text=*MoProSoft%20es%20un%20Modelo%20de,sus%20proyectos%20y%20por%20consiguiente">https://www.sige.org.mx/verificacion-moprosoft/#:%7E:text=*MoProSoft%20es%20un%20Modelo%20de,sus%20proyectos%20y%20por%20consiguiente</a> </p>
+        <br>
+        <p class="lead">Ezequiel, Z. (2015, 15 julio). 2.2.3. MOPROSOFT - Proyectos_Zuñiga_Ezequiel. MOPROSOFT. <a href="https://sites.google.com/site/proyectoszunigaezequiel/unidad-2-calidad-de-software/2-2-3-moprosoft">https://sites.google.com/site/proyectoszunigaezequiel/unidad-2-calidad-de-software/2-2-3-moprosoft</a> </p>
+        <br>
+        <p class="lead">(S/f). 4.203:8082. Recuperado el 19 de abril de 2022, de <a href="http://104.192.4.203:8082/bitstream/20.500.12494/43333/1/2021_Analisis_Implicaci%c3%b3n_Cobit.pdf">http://104.192.4.203:8082/bitstream/20.500.12494/43333/1/2021_Analisis_Implicaci%c3%b3n_Cobit.pdf</a> </p>
+        <br>
+        <p class="lead">Colombia, S. (2017, diciembre 17). Un nuevo logro para SoftManagement: Certificaciones
+CMMI Nivel 5 para “Desarrollo y Servicios”. SoftManagement. <a href="https://softmanagement.com.co/2017/12/17/un-nuevo-logro-para-softmanagementcertificaciones-cmmi-nivel-5-para-desarrollo-y-servicios/">https://softmanagement.com.co/2017/12/17/un-nuevo-logro-para-softmanagementcertificaciones-cmmi-nivel-5-para-desarrollo-y-servicios/</a>   </p>
       </div>
      
     </div>
@@ -356,7 +365,7 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
           </a>
         </li>
       </ul>
-      <p class="text-muted small mb-0">Copyright © Your Website 2021</p>
+      <p class="text-muted small mb-0">Copyright © Cristian Estrada 2022</p>
     </div>
   </footer>
 </template>

@@ -682,6 +682,11 @@ span {
 	outline: 0;
 	border: 0;
 }
+
+#Contact {
+  background-color: #fafafa;
+}
+
 #Contact .block-heading {
   text-align: center;
   margin-bottom: 40px;
@@ -774,7 +779,7 @@ span {
 footer.footer {
   padding-top: 70px;
   padding-bottom: 70px;
-  background-color: #fafafa;
+  background-color: white;
 }
 footer.footer .social-link {
   display: block;
