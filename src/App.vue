@@ -219,9 +219,9 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
             <div class="content-overlay"></div>
             <img class="content-image" src="assets/images/COBIT5.png" />
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
+              <h5 class="p-title">Infografia</h5>
               <p class="p-desc">
-                Infografia COBIT5
+                 COBIT5
               </p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
@@ -237,65 +237,76 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
       <div class="row">
         <div class="col-lg-12">
           <div class="block-heading">
-            <h2>CMMI (CAPABILITY MATURITY MODEL INTEGRATION)</h2>
+            <h2>MOPROSOFT</h2>
           </div>
           <p class="lead">
-            Es una expansión del Modelo de Madurez (CMM). Consiste en una
-            herramienta de mejora de procesos que ayuda a las organizaciones a
-            optimizar la mejora de procesos, fomentando una cultura productiva y
-            eficiente que reduce los riesgos en el desarrollo de software,
-            productos y servicios
+            MoProSoft es un Modelo de Referencia de Procesos conformado por un 
+            conjunto de buenas prácticas y procesos de gestión e ingeniería de software, 
+            que contribuyen a que las organizaciones dedicadas al desarrollo y 
+            mantenimiento de software mejoren su forma de trabajar y gestionar sus 
+            proyectos.
           </p>
           <br>
+          <h4> Beneficios</h4>
           <p class="lead">
-            El modelo CMMI es muy importante ya que ayuda a no trabajar más de
-            lo necesario, sus técnicas ahorran tiempo y todo lo importante para
-            poder generar más rápidamente todas estas demandas. CMMI está
-            enfocado a la calidad en los procesos.
+            <ul class="lead">-Mejora la calidad del software producido por la organización que adopta el modelo</ul>
+            <ul class="lead">-Eleva la capacidad de las organizaciones para ofrecer servicios con calidad y alcanzar niveles internacionales de competitividad.</ul>
+            <ul class="lead">-Integra todos los procesos de la organización y mantiene la alineación con los objetivos estratégicos.</ul>
           </p>
           <br>
-          <h4>Estándar de Calidad</h4>
+          <h4>CARACTERISTICAS</h4>
           <br>
           <p class="lead">
-            Con base a la medicion de la madurez de los proyectos, CMMI es
-            similar a la norma ISO 15504 SPICE.
+            <ul class="lead">-Es específico para el desarrollo y mantenimiento de software.</ul>
+            <ul class="lead">-Facilita el cumplimiento de los requisitos de otros modelos como ISO/IEC 29110, ISO 9001:2008, ISO/IEC 15504, CMMI-DEV e ISO/IEC 12007.</ul>
+            <ul class="lead">-Comprende un documento de menos de 200 páginas que al compararlo con otros modelos y estándares, lo hace bastante práctico.</ul>
           </p>
           <br>
           <h4>
-            Empresas certificadas con CMMI nivel 5 en Colombia SoftManagement
-            (Bogotá – Colombia)
+            ENTREGABLES
           </h4>
           <br>
           <p class="lead">
-            En el nivel de madurez 5 (llamado también de optimización), nuestra
-            organización ha logrado todos los goalsof en el proceso y las zonas
-            asignadas a los niveles de madurez 2, 3, 4 y 5, y los objetivos
-            genéricos asignados a los niveles de madurez 2 y 3.
+            <ul class="lead">-Informe de Verificación de Procesos de Tecnologías de la Información.</ul>
+            <ul class="lead">-Dictamen de Conformidad Legal (Certificado).</ul>
+            <ul class="lead">Registro de la Empresa en el Padrón Nacional de Empresas de Dictaminadas.</ul>
           </p>
         </div>
+        <div class="container">
+        <div class="text-left">
+        <h4>Anexos</h4>
       </div>
-    </div>
-  </section>
-  <!--moprosoft section end-->
-  <section class="content-section text-center" id="Portfolio">
-    <div class="container">
-      <div class="block-heading">
-        <h2>MOPROSOST</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-      </div>
+        <br>
       <div class="portfolio-wrapper clearfix">
         <a
           class="each-portfolio"
           data-fancybox="gallery"
-          href="assets/images/p-two.jpeg"
+          href="assets/images/1.png"
         >
           <div class="content hover-cont-wrap">
             <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/p-two.jpeg" />
+            <img class="content-image" src="assets/images/1.png" />
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Title</h5>
+              <h5 class="p-title">Mapa Conceptual</h5>
               <p class="p-desc">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                MOPROSOST
+              </p>
+              <span class="zoom"><i class="fa fa-search-plus"></i></span>
+            </div>
+          </div>
+        </a>
+         <a
+          class="each-portfolio"
+          data-fancybox="gallery"
+          href="assets/images/2.png"
+        >
+          <div class="content hover-cont-wrap">
+            <div class="content-overlay"></div>
+            <img class="content-image" src="assets/images/2.png" />
+            <div class="content-details fadeIn-bottom">
+              <h5 class="p-title">Logo</h5>
+              <p class="p-desc">
+                MOPROSOST
               </p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
@@ -303,90 +314,21 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
         </a>
       </div>
     </div>
+
+      </div>
+    </div>
   </section>
-  <!-- TESTIMONIALS -->
+  <!--moprosoft section end-->
+  
+  
   
   <section id="Contact" class="content-section">
     <div class="container">
       <div class="block-heading">
-        <h2>Contact Us</h2>
+        <h2>Bibliografia</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
       </div>
-      <div class="row">
-        <div class="col-sm-12 col-md-6 col-lg-6">
-          <div class="contact-wrapper">
-            <div class="address-block border-bottom">
-              <h3 class="add-title">Headquaters</h3>
-              <div class="c-detail">
-                <span class="c-icon"
-                  ><i class="fa fa-map-marker" aria-hidden="true"></i></span
-                ><span class="c-info"> Street Addess</span>
-              </div>
-              <div class="c-detail">
-                <span class="c-icon"
-                  ><i class="fa fa-phone" aria-hidden="true"></i></span
-                ><span class="c-info">+0000000000</span>
-              </div>
-              <div class="c-detail">
-                <span class="c-icon"
-                  ><i class="fa fa-envelope" aria-hidden="true"></i></span
-                ><span class="c-info">email@yourdomain.com</span>
-              </div>
-            </div>
-            <div class="address-block">
-              <h3 class="add-title">Branch</h3>
-              <div class="c-detail">
-                <span class="c-icon"
-                  ><i class="fa fa-map-marker" aria-hidden="true"></i></span
-                ><span class="c-info"> 985698 Street</span>
-              </div>
-              <div class="c-detail">
-                <span class="c-icon"
-                  ><i class="fa fa-phone" aria-hidden="true"></i></span
-                ><span class="c-info">+0000000000</span>
-              </div>
-              <div class="c-detail">
-                <span class="c-icon"
-                  ><i class="fa fa-envelope" aria-hidden="true"></i></span
-                ><span class="c-info">email@yourdomain.com</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-6">
-          <div class="form-wrap">
-            <form action="javascript:void(0)" method="post">
-              <div class="fname floating-label">
-                <input type="text" class="floating-input" name="full name" />
-                <label for="title">First Name</label>
-              </div>
-              <div class="fname floating-label">
-                <input type="text" class="floating-input" name="full name" />
-                <label for="title">Last Name</label>
-              </div>
-              <div class="email floating-label">
-                <input type="email" class="floating-input" name="email" />
-                <label for="email">Email</label>
-              </div>
-              <div class="contact floating-label">
-                <input type="tel" class="floating-input" name="contact" />
-                <label for="email">Mobile</label>
-              </div>
-              <div class="company floating-label">
-                <textarea
-                  type="text"
-                  class="floating-input"
-                  name="company"
-                ></textarea>
-                <label for="email">Message</label>
-              </div>
-              <div class="submit-btn">
-                <button type="submit">Submit</button>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
+     
     </div>
   </section>
   <footer class="footer text-center">
