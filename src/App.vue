@@ -24,9 +24,6 @@
         <a class="smooth-scroll"  href="#Moprosoft">MOPROSOFT</a>
       </li>
       <li class="sidebar-nav-item">
-        <a class="smooth-scroll" href="#Portfolio">ANEXOS</a>
-      </li>
-      <li class="sidebar-nav-item">
         <a class="smooth-scroll" href="#Contact">BIBLIOGRAFIA</a>
       </li>
     </ul>
