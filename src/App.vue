@@ -15,13 +15,16 @@
         <a class="smooth-scroll" href="#page-top">INICIO</a>
       </li>
       <li class="sidebar-nav-item">
-        <a class="smooth-scroll" href="#About">CMMI</a>
+        <a class="smooth-scroll" href="#About2">Modelo</a>
       </li>
       <li class="sidebar-nav-item">
-        <a class="smooth-scroll" href="#Services">COBIT</a>
+        <a class="smooth-scroll" href="#About">Estandar</a>
       </li>
       <li class="sidebar-nav-item">
-        <a class="smooth-scroll"  href="#Moprosoft">MOPROSOFT</a>
+        <a class="smooth-scroll"  href="#Services">Norma</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="smooth-scroll"  href="#Moprosoft">Anexos</a>
       </li>
       <li class="sidebar-nav-item">
         <a class="smooth-scroll" href="#Contact">BIBLIOGRAFIA</a>
@@ -35,7 +38,7 @@
       <h3>
         <em>¡aqui encontraras un poco acerca de ello!</em>
       </h3>
-      <a class="btn btn-primary btn-xl smooth-scroll" href="#About"
+      <a class="btn btn-primary btn-xl smooth-scroll" href="#About2"
         >Ingresa</a
       >
     </div>
@@ -121,7 +124,7 @@
           <br>
           <h5>Ejemplo</h5>
           <br>
-         
+          <p class="lead text-left">La Norma ISO 18000 es un Sistema de Gestión de la Seguridad y Salud Ocupacional (OHSMS) o Sistema de Prevención de Riesgos Laborales, siendo un mecanismo de regulación de la gestión de las organizaciones. Lo que se busca es conseguir la protección total de la salud y la vida de los empleados a través de la definición de los procesos a realizar por las personas, será, por lo tanto un conjunto de procedimientos que definan la mejor forma de realizar las actividades que serán susceptibles de producir accidentes o enfermedades profesionales del trabajo.</p>
         </div>
       </div>
 
