@@ -243,6 +243,186 @@ span {
 #About .fadeIn-bottom {
   top: 80%;
 }
+#About2 {
+  background-color: #fafafa;
+}
+#About2 .service-box {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 10px;
+  perspective: 1000px;
+  -webkit-perspective: 1000px;
+}
+#About2 .service-icon {
+  width: 100%;
+  height: 220px;
+  padding: 20px;
+  text-align: center;
+  transition: all .5s ease;
+}
+#About2 .service-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  opacity: 0;
+  width: 100%;
+  height: 220px;
+  padding: 20px;
+  text-align: center;
+  transition: all .5s ease;
+  background-color: #474747;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  -webkit-transform: translateY(110px) rotateX(-90deg);
+  -moz-transform: translateY(110px) rotateX(-90deg);
+  -ms-transform: translateY(110px) rotateX(-90deg);
+  -o-transform: translateY(110px) rotateX(-90deg);
+  transform: translateY(110px) rotateX(-90deg);
+}
+#About2 .service-box .service-icon .front-content {
+  position: relative;
+  top: 80px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+#About2 .service-box .service-icon .front-content i {
+  font-size: 28px;
+  color: #fff;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+#About2 .service-box .service-icon .front-content h3 {
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+#About2 .service-box .service-content h3 {
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+#About2 .service-box .service-content p {
+  font-size: 13px;
+  color: #fff;
+  margin: 0;
+}
+#About2 .service-box .yellow {
+  background-color: #02b3e4;
+}
+#About2 .service-box .orange {
+  background-color: #02ccba;
+}
+#About2 .service-box .red {
+  background-color: #02BED2;
+}
+#About2 .service-box .grey {
+  background-color: #47c6d0;
+}
+#About2 .service-box:hover .service-icon {
+  opacity: 0;
+  -webkit-transform: translateY(-110px) rotateX(90deg);
+  -moz-transform: translateY(-110px) rotateX(90deg);
+  -ms-transform: translateY(-110px) rotateX(90deg);
+  -o-transform: translateY(-110px) rotateX(90deg);
+  transform: translateY(-110px) rotateX(90deg);
+}
+#About2 .service-box:hover .service-content {
+  opacity: 1;
+  -webkit-transform: rotateX(0);
+  -moz-transform: rotateX(0);
+  -ms-transform: rotateX(0);
+  -o-transform: rotateX(0);
+  transform: rotateX(0);
+}
+
+#About2 .each-portfolio {
+  position: relative;
+  width: calc(33.3% - 10px);
+  float: left;
+  margin: 0 0 35px;
+  text-decoration: none;
+  outline: 0 none;
+}
+#About2 .each-portfolio img {
+  width: 100%;
+  height: auto;
+}
+#About2 .each-portfolio span.zoom {
+  margin-top: 30px;
+}
+#About2 .each-portfolio .fa-search-plus {
+  font-size: 26px;
+  color: #fff;
+}
+#About2 .each-portfolio .p-title {
+  font-size: 22px;
+  color: #fff;
+  transition: top 0.3s ease-in-out;
+}
+#About2 .each-portfolio .p-desc {
+  color: #fff;
+  transition: top 0.3s ease-in-out;
+  margin: 0 0 20px;
+}
+#About2 .content {
+  position: relative;
+  width: 90%;
+  max-width: 400px;
+  margin: auto;
+  overflow: hidden;
+}
+#About2 .content .content-overlay {
+  background: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  height: 99%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+#About2 .content:hover .content-overlay {
+  opacity: 1;
+}
+#About2 .content-image {
+  width: 100%;
+}
+#About2 .content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+#About2 .content:hover .content-details {
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+}
+#About2 .fadeIn-bottom {
+  top: 80%;
+}
 #Moprosoft .each-portfolio {
   position: relative;
   width: calc(33.3% - 10px);

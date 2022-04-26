@@ -42,6 +42,77 @@
     <div class="overlay"></div>
   </section>
   <!-- Header Ends -->
+  <!--About Starts-->
+    <section id="About2" class="content-section text-center">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="block-heading">
+            <h2>CMMI (CAPABILITY MATURITY MODEL INTEGRATION)</h2>
+          </div>
+          <p class="lead">
+            Es una expansión del Modelo de Madurez (CMM). Consiste en una
+            herramienta de mejora de procesos que ayuda a las organizaciones a
+            optimizar la mejora de procesos, fomentando una cultura productiva y
+            eficiente que reduce los riesgos en el desarrollo de software,
+            productos y servicios
+          </p>
+          <br>
+          <p class="lead">
+            El modelo CMMI es muy importante ya que ayuda a no trabajar más de
+            lo necesario, sus técnicas ahorran tiempo y todo lo importante para
+            poder generar más rápidamente todas estas demandas. CMMI está
+            enfocado a la calidad en los procesos.
+          </p>
+          <br>
+          <h4>Estándar de Calidad</h4>
+          <br>
+          <p class="lead">
+            Con base a la medicion de la madurez de los proyectos, CMMI es
+            similar a la norma ISO 15504 SPICE.
+          </p>
+          <br>
+          <h4>
+            Empresas certificadas con CMMI nivel 5 en Colombia SoftManagement
+            (Bogotá – Colombia)
+          </h4>
+          <br>
+          <p class="lead">
+            En el nivel de madurez 5 (llamado también de optimización), nuestra
+            organización ha logrado todos los goalsof en el proceso y las zonas
+            asignadas a los niveles de madurez 2, 3, 4 y 5, y los objetivos
+            genéricos asignados a los niveles de madurez 2 y 3.
+          </p>
+        </div>
+      </div>
+      <div class="container">
+        <div class="text-left">
+        <h4>Anexos</h4>
+      </div>
+        <br>
+      <div class="portfolio-wrapper clearfix">
+        <a
+          class="each-portfolio"
+          data-fancybox="gallery"
+          href="assets/images/CMMI.png"
+        >
+          <div class="content hover-cont-wrap">
+            <div class="content-overlay"></div>
+            <img class="content-image" src="assets/images/CMMI.png" />
+            <div class="content-details fadeIn-bottom">
+              <h5 class="p-title">Anexo</h5>
+              <p class="p-desc">
+                Infografia 
+              </p>
+              <span class="zoom"><i class="fa fa-search-plus"></i></span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+    </div>
+  </section>
+  <!--About End-->
   <!-- CMMI  Starts -->
   <section id="About" class="content-section text-center">
     <div class="container text-center">
