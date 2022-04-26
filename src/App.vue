@@ -48,68 +48,30 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="block-heading">
-            <h2>CMMI (CAPABILITY MATURITY MODEL INTEGRATION)</h2>
+            <h2>Modelo</h2>
           </div>
-          <p class="lead">
-            Es una expansión del Modelo de Madurez (CMM). Consiste en una
-            herramienta de mejora de procesos que ayuda a las organizaciones a
-            optimizar la mejora de procesos, fomentando una cultura productiva y
-            eficiente que reduce los riesgos en el desarrollo de software,
-            productos y servicios
-          </p>
           <br>
           <p class="lead">
-            El modelo CMMI es muy importante ya que ayuda a no trabajar más de
-            lo necesario, sus técnicas ahorran tiempo y todo lo importante para
-            poder generar más rápidamente todas estas demandas. CMMI está
-            enfocado a la calidad en los procesos.
-          </p>
-          <br>
-          <h4>Estándar de Calidad</h4>
-          <br>
-          <p class="lead">
-            Con base a la medicion de la madurez de los proyectos, CMMI es
-            similar a la norma ISO 15504 SPICE.
+            son referencias que las organizaciones utilizan para mejorar su gestión. Los modelos, a diferencia de las normas, no contienen requisitos que deben cumplir los sistemas de gestión de la calidad sino directrices para la mejora.
           </p>
           <br>
           <h4>
-            Empresas certificadas con CMMI nivel 5 en Colombia SoftManagement
-            (Bogotá – Colombia)
+            Ejemplo
           </h4>
           <br>
+          <h5 class=" text-left">
+            EFQM
+          </h5>
           <p class="lead">
-            En el nivel de madurez 5 (llamado también de optimización), nuestra
-            organización ha logrado todos los goalsof en el proceso y las zonas
-            asignadas a los niveles de madurez 2, 3, 4 y 5, y los objetivos
-            genéricos asignados a los niveles de madurez 2 y 3.
+            son las siglas de una entidad fundada en 1988 por 14 grandes empresas europeas como European Foundation for Quality Management. Es un modelo muy utilizado en Latinoamérica y España y su principal objetivo no es conseguir certificación externa, sino la excelencia empresarial.
+          </p>
+          <br>
+          <h5 class="text-left">Malcom Baldrige</h5>
+          <p class="lead">
+            Es el modelo de la excelencia utilizado en EEUU y constituye el marco de referencia utilizado para la evaluación del premio nacional del país norteamericano. Este modelo considera siete puntos clave, que son los que sirven para evaluar el sistema de gestión de la calidad: liderazgo, planificación estratégica, orientación al cliente y al mercado, información y análisis, orientación a los recursos humanos, gestión de los procesos y resultados del negocio.
           </p>
         </div>
       </div>
-      <div class="container">
-        <div class="text-left">
-        <h4>Anexos</h4>
-      </div>
-        <br>
-      <div class="portfolio-wrapper clearfix">
-        <a
-          class="each-portfolio"
-          data-fancybox="gallery"
-          href="assets/images/CMMI.png"
-        >
-          <div class="content hover-cont-wrap">
-            <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/CMMI.png" />
-            <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Anexo</h5>
-              <p class="p-desc">
-                Infografia 
-              </p>
-              <span class="zoom"><i class="fa fa-search-plus"></i></span>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
     </div>
   </section>
   <!--About End-->
@@ -119,48 +81,63 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="block-heading">
-            <h2>CMMI (CAPABILITY MATURITY MODEL INTEGRATION)</h2>
+            <h2>Estandar</h2>
           </div>
-          <p class="lead">
-            Es una expansión del Modelo de Madurez (CMM). Consiste en una
-            herramienta de mejora de procesos que ayuda a las organizaciones a
-            optimizar la mejora de procesos, fomentando una cultura productiva y
-            eficiente que reduce los riesgos en el desarrollo de software,
-            productos y servicios
-          </p>
-          <br>
-          <p class="lead">
-            El modelo CMMI es muy importante ya que ayuda a no trabajar más de
-            lo necesario, sus técnicas ahorran tiempo y todo lo importante para
-            poder generar más rápidamente todas estas demandas. CMMI está
-            enfocado a la calidad en los procesos.
-          </p>
-          <br>
-          <h4>Estándar de Calidad</h4>
-          <br>
-          <p class="lead">
-            Con base a la medicion de la madurez de los proyectos, CMMI es
-            similar a la norma ISO 15504 SPICE.
+          <p class="lead text-left">
+           Tienen como fin principal la auditoría externa de las organizaciones. Frente a la evaluación de los modelos (que implica la valoración de los diferentes aspectos de la gestión de una organización, asignando puntuaciones para determinar el nivel de la misma), la auditoría establece requerimientos sin cuyo cumplimiento no puede obtenerse la certificación correspondiente. La obtención de una certificación externa constituye una garantía hacia terceros del adecuado funcionamiento del sistema de calidad de la organización o unidad.
           </p>
           <br>
           <h4>
-            Empresas certificadas con CMMI nivel 5 en Colombia SoftManagement
-            (Bogotá – Colombia)
+           Ejemplo
           </h4>
           <br>
-          <p class="lead">
-            En el nivel de madurez 5 (llamado también de optimización), nuestra
-            organización ha logrado todos los goalsof en el proceso y las zonas
-            asignadas a los niveles de madurez 2, 3, 4 y 5, y los objetivos
-            genéricos asignados a los niveles de madurez 2 y 3.
+          <p class="lead">ISO 9001: este es un estándar que describe el sistema de calidad utilizado para mantener el desarrollo de un producto que implique diseño.
           </p>
+          <br>
+          <p class="lead text-left">ISO 9000-3: este es un documento específico que interpreta el ISO 9001 para el desarrollador de software</p>
+          <br>
+          <p class="lead text-left">ISO 9004-2: este documento proporciona las directrices para el servicio de facilidades del software como soporte de usuarios</p>
         </div>
       </div>
-      <div class="container">
-        <div class="text-left">
-        <h4>Anexos</h4>
+    </div>
+  </section>
+  <!-- Cobit Us Starts -->
+  <section id="Services" class="content-section text-center">
+    <div class="container ">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="block-heading">
+            <h2>Norma</h2>
+          </div>
+            <p class="lead">
+            Las normas de calidad se definen como documentos que proporcionan requisitos, especificaciones, directrices o características que se pueden utilizar de manera constante para garantizar que los materiales, productos, procesos y servicios sean adecuados para su finalidad.
+          </p>
+          <br>
+          <p class="lead">
+            Las normas proporcionan a las organizaciones la visión compartida, la comprensión, los procedimientos y el vocabulario necesario para satisfacer las expectativas de sus partes interesadas. 
+          </p>
+          <br>
+          <p class="lead">De manera similar, las normas presentan descripciones y terminología precisas, por lo que ofrecen una base objetiva y autorizada para las organizaciones y los consumidores de todo el mundo para comunicar y realizar negocios.</p>
+          <br>
+          <h5>Ejemplo</h5>
+          <br>
+         
+        </div>
       </div>
-        <br>
+
+    </div>
+  </section>
+  <!--moprosoft section start-->
+<section id="Moprosoft" class="content-section text-center">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="block-heading">
+            <h2>Anexos</h2>
+          </div>
+          
+        </div>
+        <div class="container">
       <div class="portfolio-wrapper clearfix">
         <a
           class="each-portfolio"
@@ -171,193 +148,9 @@
             <div class="content-overlay"></div>
             <img class="content-image" src="assets/images/CMMI.png" />
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Anexo</h5>
-              <p class="p-desc">
-                Infografia CMMI
-              </p>
-              <span class="zoom"><i class="fa fa-search-plus"></i></span>
-            </div>
-          </div>
-        </a>
-        <a
-          class="each-portfolio"
-          data-fancybox="gallery"
-          href="assets/images/1280px-Open-systems-logo.svg.png"
-        >
-          <div class="content hover-cont-wrap">
-            <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/1280px-Open-systems-logo.svg.png" />
-            <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">OPEN SYSTEMS</h5>
-              <p class="p-desc">
-                empresa certificada
-              </p>
-              <span class="zoom"><i class="fa fa-search-plus"></i></span>
-            </div>
-          </div>
-        </a>
-        <a
-          class="each-portfolio"
-          data-fancybox="gallery"
-          href="assets/images/SoftLogoPaginaWeb.png"
-        >
-          <div class="content hover-cont-wrap">
-            <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/SoftLogoPaginaWeb.png" />
-            <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">SOFT</h5>
-              <p class="p-desc">
-                empresa certificada
-              </p>
-              <span class="zoom"><i class="fa fa-search-plus"></i></span>
-            </div>
-          </div>
-        </a>
-        <a
-          class="each-portfolio"
-          data-fancybox="gallery"
-          href="assets/images/heinsohn.png"
-        >
-          <div class="content hover-cont-wrap">
-            <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/heinsohn.png" />
-            <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">heinsohn</h5>
-              <p class="p-desc">
-                empresa certificada
-              </p>
-              <span class="zoom"><i class="fa fa-search-plus"></i></span>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-    </div>
-  </section>
-  <!-- Cobit Us Starts -->
-  <section id="Services" class="content-section text-center">
-    <div class="container ">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="block-heading">
-            <h2>COBIT 5</h2>
-          </div>
-            <p class="lead">
-            Es una guía de mejores prácticas presentado como framework, dirigida al control y
-supervisión de tecnología de la información (TI) y es la última edición del framework
-mundialmente aceptado.
-COBIT es empleado en todo el mundo por quienes tienen como responsabilidad
-primaria los procesos de negocio y la tecnología, aquellos de quien depende la
-tecnología y la información confiable, y los que proveen calidad, confiabilidad y control
-de TI. COBIT 5 se basa en el gobierno de TI y el gobierno Corporativo.
-          </p>
-          <br>
-           <h4>COBIT una metodología orientada a procesos</h4>
-           <br>
-          <p class="lead">
-            COBIT define las actividades de TI en un modelo genérico de procesos organizado en
-cuatro dominios. Estos dominios son Planear y Organizar, Adquirir e Implementar,
-Entregar y Dar Soporte, Monitorear y Evaluar. Los dominios se equiparan a las áreas
-tradicionales de TI de planear, construir, ejecutar y monitorear.
-          </p>
-          <br>
-          <h4>Beneficios </h4>
-          <br>
-          <p class="lead ">
-            <ul class="lead">- Optimizar los servicios, el coste de las TI y la tecnologias.</ul>
-            <ul class="lead">- Apoyar el cumplimiento de las leyes, reglamentos,acuerdos contractuales y las politicas</ul>
-            <ul class="lead">- Gestion de nuevas tecnologias de información</ul>
-          </p>
-          <br>
-         
-        </div>
-      </div>
-<div class="container">
-        <div class="text-left">
-        <h4>Anexos</h4>
-      </div>
-        <br>
-      <div class="portfolio-wrapper clearfix">
-        <a
-          class="each-portfolio"
-          data-fancybox="gallery"
-          href="assets/images/COBIT5.png"
-        >
-          <div class="content hover-cont-wrap">
-            <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/COBIT5.png" />
-            <div class="content-details fadeIn-bottom">
               <h5 class="p-title">Infografia</h5>
               <p class="p-desc">
-                 COBIT5
-              </p>
-              <span class="zoom"><i class="fa fa-search-plus"></i></span>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-    </div>
-  </section>
-  <!--moprosoft section start-->
-<section id="Moprosoft" class="content-section text-center">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="block-heading">
-            <h2>MOPROSOFT</h2>
-          </div>
-          <p class="lead">
-            MoProSoft es un Modelo de Referencia de Procesos conformado por un 
-            conjunto de buenas prácticas y procesos de gestión e ingeniería de software, 
-            que contribuyen a que las organizaciones dedicadas al desarrollo y 
-            mantenimiento de software mejoren su forma de trabajar y gestionar sus 
-            proyectos.
-          </p>
-          <br>
-          <h4> Beneficios</h4>
-          <p class="lead">
-            <ul class="lead">-Mejora la calidad del software producido por la organización que adopta el modelo</ul>
-            <ul class="lead">-Eleva la capacidad de las organizaciones para ofrecer servicios con calidad y alcanzar niveles internacionales de competitividad.</ul>
-            <ul class="lead">-Integra todos los procesos de la organización y mantiene la alineación con los objetivos estratégicos.</ul>
-          </p>
-          <br>
-          <h4>CARACTERISTICAS</h4>
-          <br>
-          <p class="lead">
-            <ul class="lead">-Es específico para el desarrollo y mantenimiento de software.</ul>
-            <ul class="lead">-Facilita el cumplimiento de los requisitos de otros modelos como ISO/IEC 29110, ISO 9001:2008, ISO/IEC 15504, CMMI-DEV e ISO/IEC 12007.</ul>
-            <ul class="lead">-Comprende un documento de menos de 200 páginas que al compararlo con otros modelos y estándares, lo hace bastante práctico.</ul>
-          </p>
-          <br>
-          <h4>
-            ENTREGABLES
-          </h4>
-          <br>
-          <p class="lead">
-            <ul class="lead">-Informe de Verificación de Procesos de Tecnologías de la Información.</ul>
-            <ul class="lead">-Dictamen de Conformidad Legal (Certificado).</ul>
-            <ul class="lead">Registro de la Empresa en el Padrón Nacional de Empresas de Dictaminadas.</ul>
-          </p>
-        </div>
-        <div class="container">
-        <div class="text-left">
-        <h4>Anexos</h4>
-      </div>
-        <br>
-      <div class="portfolio-wrapper clearfix">
-        <a
-          class="each-portfolio"
-          data-fancybox="gallery"
-          href="assets/images/1.png"
-        >
-          <div class="content hover-cont-wrap">
-            <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/1.png" />
-            <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Mapa Conceptual</h5>
-              <p class="p-desc">
-                MOPROSOST
+                Características de calidad de Software
               </p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
@@ -366,15 +159,15 @@ tradicionales de TI de planear, construir, ejecutar y monitorear.
          <a
           class="each-portfolio"
           data-fancybox="gallery"
-          href="assets/images/2.png"
+          href="assets/images/cuadro.jpeg"
         >
           <div class="content hover-cont-wrap">
             <div class="content-overlay"></div>
-            <img class="content-image" src="assets/images/2.png" />
+            <img class="content-image" src="assets/images/cuadro.jpeg" />
             <div class="content-details fadeIn-bottom">
-              <h5 class="p-title">Logo</h5>
+              <h5 class="p-title">Cuadro Comparativo</h5>
               <p class="p-desc">
-                MOPROSOST
+                Modelos
               </p>
               <span class="zoom"><i class="fa fa-search-plus"></i></span>
             </div>
@@ -448,6 +241,7 @@ de gestión. Revista Facultad de Ciencias Económicas: Investigación y Reflexi�
         </li>
       </ul>
       <p class="text-muted small mb-0">Copyright © Cristian Estrada 2022</p>
+
     </div>
   </footer>
 </template>
